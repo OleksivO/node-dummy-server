@@ -1,1 +1,1 @@
-# node-dummy-server
+Creates a node js server on 3000-th port
