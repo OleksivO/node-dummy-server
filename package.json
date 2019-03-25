@@ -1,0 +1,23 @@
+{
+  "name": "dummy-server",
+  "version": "1.0.0",
+  "description": "Example of node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksivO/node-dummy-server.git"
+  },
+  "author": "Oleksandr Oleksiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleksivO/node-dummy-server/issues"
+  },
+  "homepage": "https://github.com/OleksivO/node-dummy-server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
